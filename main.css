@@ -103,7 +103,7 @@ strong{
   margin-right: .3em;
 }
 
-#info-box{
+.info-box{
 	width: 800px;
 	height: 35px;
 	margin-bottom: 12px;
@@ -119,7 +119,7 @@ strong{
 	text-align: center;
 }
 
-#server-empty-box{
+.server-empty{
 	width: 800px;
 	height: 35px;
 	margin-bottom: 12px;
@@ -127,11 +127,11 @@ strong{
 	text-align: center;
 }
 
-#server-empty-box:hover{
+.server-empty:hover{
 	background: #D5E6F7;
 }
 
-#server-online-box{
+.server-online{
 	width: 800px;
 	height: 35px;
 	margin-bottom: 12px;
@@ -139,7 +139,7 @@ strong{
 	text-align: center;
 }
 
-#server-online-box:hover{
+.server-online:hover{
 	background: #D4F6D4;
 }
 
@@ -175,7 +175,7 @@ strong{
 	display: inline-block;
 }
 
-#box-name{
+.box-name{
 	width:800px;
 	margin: 0px;
 	padding: 0px 12px 0px 24px;
